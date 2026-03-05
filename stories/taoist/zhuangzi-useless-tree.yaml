@@ -1,0 +1,98 @@
+id: s008
+title: "The Useless Tree"
+slug: zhuangzi-useless-tree
+
+tradition: taoist
+culture: "Chinese, Warring States period"
+source_text: "Zhuangzi, Chapter 4 (In the World of Men)"
+source_translation: "Burton Watson translation (public domain portions); James Legge (1891)"
+translator: "James Legge"
+copyright_status: public_domain
+license_note: "Legge 1891 translation is public domain"
+
+story_type: parable
+archetypes: [the-trickster]
+emotional_registers: [stuckness, disillusionment, confusion, awakening]
+life_stages: [midlife_descent, elder_integration]
+key_images:
+  - "the enormous gnarled tree that no carpenter will cut"
+  - "uselessness as the highest use"
+  - "the tree that outlives every straight, useful tree around it"
+  - "the dream-conversation between the tree and the carpenter"
+
+summary: >
+  A carpenter passes an enormous tree at a village shrine. His apprentice marvels
+  at it, but the carpenter dismisses it — the wood is worthless, good for nothing.
+  That night the tree appears to the carpenter in a dream and says: "You compare
+  me with useful trees? They are cut down in their prime precisely because they
+  are useful. I have perfected uselessness. That is why I am still alive."
+
+full_text: >
+  Carpenter Shih went to Ch'i and, when he got to Crooked Shaft, he saw a
+  serrate oak standing by the village shrine. It was broad enough to shelter
+  several thousand oxen and measured a hundred spans around, towering above
+  the hills. The lowest branches were eighty feet from the ground, and a
+  dozen or so of them could have been made into boats. There were so many
+  sightseers that the place looked like a fair.
+
+  Carpenter Shih did not even glance at it and walked on without stopping.
+  His apprentice stood staring for a long time and then ran after him.
+  "Since I first took up my axe and followed you, Master, I have never
+  seen timber as beautiful as this. But you won't even look at it.
+  Why not?"
+
+  "Forget it — say no more!" said the carpenter. "It's a worthless tree!
+  Make boats from it and they'd sink; make coffins and they'd rot; make
+  vessels and they'd break. Use it for doors and it would sweat sap;
+  use it for pillars and the bugs would eat them. It's not a timber tree
+  — there's nothing it can be used for. That's how it got to be that old."
+
+  After Carpenter Shih had returned home, the oak tree appeared to him
+  in a dream and said:
+
+  "What are you comparing me with? Are you comparing me with those
+  useful trees? The cherry apple, the pear, the orange, the citron,
+  the rest of those fructiferous trees and shrubs — as soon as their
+  fruit is ripe, they are torn apart and subjected to abuse. Their
+  big limbs are broken off, their little limbs are yanked around.
+  Their utility makes life miserable for them, and so they don't
+  get to finish out the years Heaven gave them, but are cut off
+  in mid-journey. They bring it on themselves — the pulling and
+  tearing of the common mob. And it's the same way with all things.
+
+  As for me, I've been trying a long time to be of no use, and
+  though I almost died, I've finally got it. This is of great use
+  to me. If I had been of some use, would I ever have grown this
+  large? Moreover, you and I are both of us things. What's the
+  point of this — things condemning things? You, a worthless man
+  about to die — how do you know I'm a worthless tree?"
+
+telling_notes: >
+  This is Zhuangzi at his most subversive — and most gentle. The tree
+  is the Trickster's answer to a world that measures everything by
+  productivity. Present with wry warmth. The dream-dialogue is the
+  heart — the tree speaks with the authority of something that has
+  outlived every useful thing around it. For listeners who feel
+  stuck, worthless, or who are measuring themselves against others'
+  definitions of success, this is medicine. Ask: what if the thing
+  you think is wrong with you is the thing keeping you alive?
+
+place_ids: []
+landscape_type: forest
+origin_geography: "China, Warring States period"
+
+calendar_events: []
+seasonal_affinity: [autumn_equinox, dark_half]
+
+sensitivity_notes: "Public domain text. Taoism is a living tradition but this parable is universally shared and studied."
+permission_ring: publicly_shared
+custodian_note: ""
+
+charitable_org: "International Taoist Tai Chi Society"
+donation_url: ""
+
+added_by: "claude-seed"
+reviewed_by: ""
+date_added: 2026-03-05
+date_reviewed: null
+status: draft

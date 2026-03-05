@@ -1,0 +1,115 @@
+id: s010
+title: "Oisín in Tír na nÓg"
+slug: oisin-tir-na-nog
+
+tradition: celtic
+culture: "Irish Gaelic, Fenian Cycle"
+source_text: "Fenian Cycle oral tradition; Michael Comyn's 18th-century poem"
+source_translation: "Multiple scholarly retellings; Bryan O'Looney translation (1856)"
+translator: "Various"
+copyright_status: public_domain
+license_note: "Traditional oral material; 19th-century literary versions in public domain"
+
+story_type: myth
+archetypes: [the-return]
+emotional_registers: [yearning, longing, grief, disillusionment]
+life_stages: [return, elder_integration, preparation_for_death]
+key_images:
+  - "Niamh of the Golden Hair on a white horse rising from the sea"
+  - "the land of eternal youth across the western ocean"
+  - "three hundred years passing like three years"
+  - "the hero's foot touching the ground and age rushing in"
+  - "the old blind man telling stories to Patrick"
+
+summary: >
+  Oisín, warrior-poet of the Fianna, falls in love with Niamh of the Golden
+  Hair, who takes him across the sea to Tír na nÓg — the Land of the Young.
+  He lives there in beauty and timelessness. After what feels like three years,
+  he yearns for Ireland and the Fianna. Niamh gives him a white horse and
+  warns him: do not let your feet touch the ground. He rides back to Ireland
+  and finds three hundred years have passed. The Fianna are gone. The old
+  world is gone. He reaches down to help some men lift a stone, slips from
+  the saddle, and the moment his foot touches Irish soil, all three hundred
+  years rush into his body. He becomes an ancient, blind old man. Saint Patrick
+  finds him and tries to convert him. Oisín tells him stories of the Fianna
+  instead.
+
+full_text: >
+  Niamh came from the west, riding a white horse across the surface of the
+  sea. Her hair was gold. Her eyes held distances. She said to Oisín:
+
+  "Come with me to Tír na nÓg, the Land of the Young, where there is no
+  death, no age, no sorrow. The trees bear fruit and blossom at the same
+  time. The rivers run with honey. You will never grow old."
+
+  And Oisín, who had seen his friends die in battle, who had felt the weight
+  of years, who loved beauty as only a poet can — Oisín mounted the white
+  horse and rode with her across the sea.
+
+  In Tír na nÓg, he was happy. The days were golden. He fought no battles
+  but those that ended in feasting. He loved Niamh. Three years passed —
+  or what felt like three years.
+
+  But the ache came. The ache for Ireland, for the green hills, for the
+  voices of the Fianna, for the sound of his own language spoken by mortal
+  tongues. He asked Niamh to let him return.
+
+  She wept. She gave him the white horse and said: "Do not dismount.
+  Do not let your feet touch the soil of Ireland. If you do, you can
+  never return to me."
+
+  He rode back across the sea. Ireland was changed. The hills were smaller
+  somehow. There were no Fianna. The people he met had never heard of Fionn
+  mac Cumhaill. Three hundred years had passed.
+
+  He came upon men struggling to lift a great stone. He leaned from the
+  saddle to help them. The girth broke. He fell. His feet touched the ground.
+
+  And three hundred years entered him like a wave. His hair went white.
+  His back bent. His eyes dimmed. The white horse vanished across the sea,
+  back to Tír na nÓg, back to Niamh, who stood on the shore waiting
+  for someone who would not return.
+
+  Saint Patrick found him — a blind, ancient man, the last of the Fianna.
+  Patrick spoke to him of God and heaven. Oisín said: "If your God is
+  so great, would he let Fionn into his heaven? For if the Fianna are not
+  there, I will not go."
+
+  And he sat in the rain and told stories of the old world to anyone
+  who would listen.
+
+telling_notes: >
+  This is the most devastating Return in world mythology. The return
+  destroys the returner. Oisín cannot go back AND stay who he is —
+  the choice is permanent exile in paradise or aging to death in the
+  world he loves. And the world he loves is gone. For anyone navigating
+  a return — from abroad, from a career change, from a relationship,
+  from a period of being lost — this story says: you will not find what
+  you left. But it also says: the stories survive. Oisín blind and
+  ancient is still telling stories. That is the gift.
+
+place_ids:
+  - ireland-west-coast
+landscape_type: coast
+origin_geography: "Western Ireland, Atlantic coast"
+
+calendar_events:
+  - samhain
+  - beltane
+seasonal_affinity: [autumn_equinox, dark_half]
+
+sensitivity_notes: >
+  Irish mythological material is widely shared and studied. This story
+  is taught in Irish schools. Modern Irish-language revival communities
+  hold this material with cultural pride rather than restriction.
+permission_ring: publicly_shared
+custodian_note: ""
+
+charitable_org: "Conradh na Gaeilge (Gaelic League)"
+donation_url: ""
+
+added_by: "claude-seed"
+reviewed_by: ""
+date_added: 2026-03-05
+date_reviewed: null
+status: draft

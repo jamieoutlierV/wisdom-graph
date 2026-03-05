@@ -1,0 +1,132 @@
+id: s004
+title: "Jonah in the Belly of the Whale"
+slug: jonah-belly-of-whale
+
+# === PROVENANCE ===
+tradition: jewish
+culture: "Ancient Israelite / Jewish"
+source_text: "Book of Jonah (Tanakh / Hebrew Bible)"
+source_translation: "Jewish Publication Society translation (1917)"
+translator: "JPS 1917"
+copyright_status: public_domain
+license_note: "JPS 1917 translation is public domain. Also available via Sefaria (CC)."
+
+# === CLASSIFICATION ===
+story_type: teaching_story
+archetypes:
+  - the-descent
+  - the-return
+emotional_registers:
+  - despair
+  - surrender
+  - confusion
+  - awakening
+life_stages:
+  - midlife_descent
+  - first_threshold
+  - return
+key_images:
+  - "the prophet who runs from his calling"
+  - "the storm at sea"
+  - "swallowed by the great fish"
+  - "three days in the dark belly"
+  - "vomited onto dry land — returned but changed"
+  - "the vine that gives shade and then dies"
+
+# === CONTENT ===
+summary: >
+  God calls Jonah to prophesy to Nineveh. Jonah refuses and flees by sea.
+  A great storm comes. Jonah tells the sailors to throw him overboard —
+  he knows the storm is his. He is swallowed by a great fish and spends
+  three days and nights in its belly, where he prays. The fish vomits him
+  onto dry land. He goes to Nineveh, delivers his prophecy, the city
+  repents, and God spares them. Jonah is furious — he wanted them
+  destroyed. God teaches him compassion through a vine.
+
+full_text: >
+  Now the word of the Lord came to Jonah the son of Amittai, saying:
+  "Arise, go to Nineveh, that great city, and cry against it."
+
+  But Jonah rose up to flee to Tarshish, away from the presence of the
+  Lord. He went down to Joppa, and found a ship going to Tarshish; so
+  he paid the fare, and went down into it, to go with them to Tarshish,
+  away from the presence of the Lord.
+
+  But the Lord sent a great wind upon the sea, and there was a mighty
+  tempest. And the mariners were afraid, and every man cried to his god.
+  And they cast lots, and the lot fell upon Jonah.
+
+  And he said to them: "Take me up, and cast me into the sea; so shall
+  the sea be calm. For I know that because of me this great tempest
+  is upon you."
+
+  And the Lord prepared a great fish to swallow up Jonah. And Jonah was
+  in the belly of the fish three days and three nights.
+
+  Then Jonah prayed from the belly of the fish: "Out of my distress I
+  called to the Lord, and He answered me. Out of the belly of the
+  underworld I cried, and You heard my voice. You cast me into the
+  deep, into the heart of the seas, and the current surrounded me.
+  All Your waves and Your billows passed over me.
+
+  The waters encompassed me to the soul. The deep was round about me.
+  The weeds were wrapped about my head. I went down to the roots of
+  the mountains. The earth with her bars closed upon me forever.
+  Yet You brought up my life from the pit."
+
+  And the Lord spoke to the fish, and it vomited Jonah upon dry land.
+
+  He went to Nineveh. He prophesied. The city repented. God relented.
+  And Jonah was angry. He sat outside the city and wished to die.
+
+  And God prepared a vine to give him shade, and Jonah was grateful.
+  Then God sent a worm to kill the vine, and the sun beat down, and
+  Jonah wished again to die.
+
+  And God said: "You had pity on the vine, which you did not plant,
+  which grew in a night and perished in a night. Should I not have
+  pity on Nineveh, that great city, in which there are more than a
+  hundred and twenty thousand persons who cannot tell their right
+  hand from their left?"
+
+telling_notes: >
+  Jonah is NOT a hero. He is a prophet who runs, who sulks, who wants
+  his enemies destroyed. The belly of the whale is not punishment — it
+  is the container for his transformation. He goes down into the deep
+  not because he is brave but because he is thrown. And even after
+  his return, he resists the teaching. The vine is God's final word:
+  compassion is not optional. Present Jonah's anger honestly. The
+  listener may recognise themselves in the man who would rather die
+  than extend mercy.
+
+# === PLACE ===
+place_ids: []
+landscape_type: sea
+origin_geography: "Ancient Israel / Mediterranean"
+
+# === CALENDAR ===
+calendar_events:
+  - yom-kippur
+seasonal_affinity:
+  - autumn_equinox
+  - dark_half
+
+# === SENSITIVITY ===
+sensitivity_notes: >
+  Shared across Jewish, Christian, and Islamic traditions (Yunus in the Quran).
+  When presenting, attribute to Jewish tradition as source, note cross-traditional
+  presence. Living religious material — treat with respect for all three traditions.
+  Read on Yom Kippur afternoon in synagogues — deeply sacred timing.
+permission_ring: publicly_shared
+custodian_note: "Sefaria provides excellent scholarly context for Jewish reading."
+
+# === SUPPORT ===
+charitable_org: "Sefaria / Jewish Book Council"
+donation_url: "https://www.sefaria.org/donate"
+
+# === META ===
+added_by: "claude-seed"
+reviewed_by: ""
+date_added: 2026-03-05
+date_reviewed: null
+status: draft

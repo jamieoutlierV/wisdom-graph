@@ -1,0 +1,113 @@
+id: s012
+title: "Rama Returns to Ayodhya"
+slug: rama-return-ayodhya
+
+tradition: hindu
+culture: "Sanskrit, Pan-Indian"
+source_text: "Valmiki Ramayana, Yuddha Kanda and Uttara Kanda"
+source_translation: "Ralph T. H. Griffith translation (1870-1874)"
+translator: "Ralph T. H. Griffith"
+copyright_status: public_domain
+license_note: "Pre-1929 translation"
+
+story_type: epic_fragment
+archetypes: [the-return]
+emotional_registers: [yearning, grief, transformation, awakening, betrayal]
+life_stages: [return, elder_integration]
+key_images:
+  - "fourteen years of exile in the forest"
+  - "the battle for Lanka, the bridge of stones"
+  - "Sita's trial by fire — the agni pariksha"
+  - "the city of lights welcoming the king home"
+  - "the banishment of Sita — the return's cruelest cost"
+
+summary: >
+  After fourteen years of exile, the defeat of Ravana, and the rescue of Sita,
+  Rama returns to Ayodhya to claim his throne. The city is lit with lamps —
+  the origin of Diwali. But the homecoming is shadowed. Rama demands that Sita
+  prove her purity through a trial by fire. She walks through the flames
+  unharmed. Later, responding to gossip among his subjects, Rama banishes
+  the pregnant Sita to the forest. The righteous king and the abandoned queen.
+  The return is triumphant and devastating at the same time.
+
+full_text: >
+  Fourteen years Rama had wandered. Fourteen years in the forest, in exile,
+  because his father's honour demanded it. He had built an army of monkeys
+  and bears. He had built a bridge across the sea to Lanka. He had defeated
+  Ravana, the ten-headed king of demons, and freed Sita, his beloved wife.
+
+  Now the Pushpaka chariot flew north, carrying them home to Ayodhya.
+  Below them, the people lit lamps — thousands upon thousands of clay
+  lamps in every window, on every wall, along every road. The darkness
+  retreated before the light. The exiled king was coming home.
+
+  But before the homecoming, on the battlefield itself, Rama had turned
+  to Sita and said words that cut:
+
+  "I did not wage this war for you alone. I waged it for dharma, for
+  the honour of my house. You have lived in another man's palace.
+  How can I take you back without proof of your purity?"
+
+  And Sita — who had waited, who had refused Ravana, who had kept her
+  faith through every day of captivity — Sita said to Lakshmana:
+  "Build me a fire."
+
+  She walked into the flames. Agni, the fire god, lifted her out
+  unharmed and declared her pure. The gods themselves testified.
+  Rama wept and took her back.
+
+  They returned to Ayodhya. He was crowned king. The lamps blazed.
+  The people sang. Dharma was restored.
+
+  But later — months later, years later — a washerman quarrelled with
+  his wife and said: "I am not like Rama, who took back a woman who
+  lived in another man's house." The gossip reached the king.
+
+  And Rama, who loved Sita, who had crossed the sea for her, who had
+  watched her walk through fire — Rama banished her. She was pregnant.
+  He sent her to the forest alone.
+
+  Because he was a king before he was a husband. Because dharma — as
+  he understood it — demanded that the king be above suspicion, even
+  at the cost of the woman he loved.
+
+  This is the wound at the heart of the Ramayana. The perfect king
+  and the perfect wife, and the return that gives everything back
+  and takes the most important thing away.
+
+telling_notes: >
+  Do NOT simplify this. The Ramayana is a living sacred text for
+  hundreds of millions of people. Rama is worshipped as an avatar of
+  Vishnu. But the text itself contains this wound — Sita's banishment
+  is IN the epic. Indian scholars and devotees have grappled with it
+  for millennia. Present both the triumph (the lamps, the homecoming,
+  dharma restored) and the cost (Sita in the forest, pregnant, alone).
+  For listeners experiencing return — ask: what did coming home cost
+  the person you love most? What did duty demand that love could not afford?
+
+place_ids: []
+landscape_type: plain
+origin_geography: "Ayodhya, Uttar Pradesh, India"
+
+calendar_events:
+  - diwali
+seasonal_affinity: [autumn_equinox, new_moon]
+
+sensitivity_notes: >
+  The Ramayana is a living sacred text. Rama is worshipped as God by
+  hundreds of millions. Sita's agni pariksha and banishment are subjects
+  of deep theological and feminist debate within Hindu tradition. Present
+  with full respect for the text's sacred status while honouring the
+  complexity the text itself contains. Do not flatten into a simple
+  "happy return" story — the epic doesn't.
+permission_ring: publicly_shared
+custodian_note: "Advisory council review essential for Hindu material."
+
+charitable_org: "Hindu Heritage Foundation / Indica Foundation"
+donation_url: ""
+
+added_by: "claude-seed"
+reviewed_by: ""
+date_added: 2026-03-05
+date_reviewed: null
+status: draft

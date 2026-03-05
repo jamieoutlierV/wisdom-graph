@@ -1,0 +1,124 @@
+id: s002
+title: "Inanna's Descent to the Underworld"
+slug: inanna-descent
+
+# === PROVENANCE ===
+tradition: sumerian
+culture: "Sumerian, Southern Mesopotamia"
+source_text: "Inanna's Descent to the Nether World — ETCSL composite text"
+source_translation: "Electronic Text Corpus of Sumerian Literature (ETCSL), Oxford"
+translator: "ETCSL project / J.A. Black et al."
+copyright_status: public_domain
+license_note: "Ancient text; ETCSL translations freely available for non-commercial use"
+
+# === CLASSIFICATION ===
+story_type: myth
+archetypes:
+  - the-descent
+emotional_registers:
+  - surrender
+  - grief
+  - transformation
+  - threshold
+life_stages:
+  - initiation
+  - midlife_descent
+  - dark_night
+key_images:
+  - "seven gates, seven garments removed"
+  - "the naked queen on the hook"
+  - "the eye of death turned upon her"
+  - "the galla demons who accompany the return"
+  - "the choice — someone must take her place"
+
+# === CONTENT ===
+summary: >
+  Inanna, Queen of Heaven and Earth, chooses to descend to the Great Below —
+  the realm of her sister Ereshkigal, Queen of the Dead. At each of seven gates
+  she must surrender a garment or ornament of power. She arrives naked and
+  powerless before her sister, who turns the eye of death upon her. Inanna is
+  killed and hung on a hook. After three days, she is rescued — but the
+  underworld demands a substitute. She must choose who takes her place.
+  She chooses her husband Dumuzi, who did not mourn her absence.
+
+full_text: >
+  From the Great Above she opened her ear to the Great Below.
+  From the Great Above the goddess opened her ear to the Great Below.
+  From the Great Above Inanna opened her ear to the Great Below.
+
+  My Lady abandoned heaven and earth to descend to the underworld.
+  Inanna abandoned heaven and earth to descend to the underworld.
+  She abandoned her office of holy priestess to descend to the underworld.
+
+  At the first gate, the gatekeeper removed her crown.
+  "What is this?" she asked.
+  "Quiet, Inanna. The ways of the underworld are perfect.
+  They may not be questioned."
+
+  At the second gate, her lapis measuring rod and line were removed.
+  At the third gate, the double strand of beads from her neck.
+  At the fourth gate, the breastplate from her chest.
+  At the fifth gate, the gold ring from her wrist.
+  At the sixth gate, the lapis measuring rod from her hand.
+  At the seventh gate, the royal garment from her body.
+
+  Naked and bowed low, Inanna entered the throne room.
+  Ereshkigal rose from her throne.
+  Inanna started toward the throne.
+  The Anunnaki, the judges of the underworld, surrounded her.
+  They passed judgement against her.
+  Then Ereshkigal fastened on Inanna the eye of death.
+  She spoke against her the word of wrath.
+  She uttered against her the cry of guilt.
+  She struck her.
+
+  Inanna was turned into a corpse, a piece of rotting meat,
+  and was hung from a hook on the wall.
+
+  After three days and three nights, Inanna was resurrected.
+  But the underworld would not release her freely.
+  The galla, the demons of the underworld, clung to her side.
+  They said: "Who will go to the underworld in your place?"
+
+  And when Inanna returned and found Dumuzi on her throne,
+  dressed in fine garments, not mourning —
+  she fixed on him the eye of death.
+  She said: "Take him. Take Dumuzi away."
+
+telling_notes: >
+  The repetition is sacred — do not compress it. The seven gates are a ritual
+  stripping. Each garment is a layer of identity, status, power. By the seventh
+  gate she is no one. This is the point. She CHOSE to go. Unlike Persephone,
+  no one took her. She heard something calling from the deep and she went.
+  The price is real — someone must take her place. Even the gods cannot
+  descend for free. Let the listener feel the weight of each gate.
+
+# === PLACE ===
+place_ids: []
+landscape_type: underworld
+origin_geography: "Sumer, Southern Mesopotamia (modern Iraq)"
+
+# === CALENDAR ===
+calendar_events: []
+seasonal_affinity:
+  - dark_half
+  - winter_solstice
+
+# === SENSITIVITY ===
+sensitivity_notes: >
+  No living custodians of Sumerian religion. Ring 1 — archaeological.
+  The text is among the oldest narratives in human history (c. 1900-1600 BCE).
+  Scholarly interpretation is active and evolving.
+permission_ring: archaeological
+custodian_note: ""
+
+# === SUPPORT ===
+charitable_org: "British Museum / Iraq Museum Baghdad"
+donation_url: ""
+
+# === META ===
+added_by: "claude-seed"
+reviewed_by: ""
+date_added: 2026-03-05
+date_reviewed: null
+status: draft

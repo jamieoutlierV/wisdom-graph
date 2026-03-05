@@ -1,0 +1,113 @@
+id: s001
+title: "Persephone and the Pomegranate Seeds"
+slug: persephone-descent
+
+# === PROVENANCE ===
+tradition: greek
+culture: "Attic Greek, Eleusinian mystery tradition"
+source_text: "Homeric Hymn to Demeter"
+source_translation: "Hugh G. Evelyn-White translation, 1914"
+translator: "Hugh G. Evelyn-White"
+copyright_status: public_domain
+license_note: "Pre-1929 translation, fully public domain"
+
+# === CLASSIFICATION ===
+story_type: myth
+archetypes:
+  - the-descent
+  - the-return
+emotional_registers:
+  - grief
+  - rage
+  - yearning
+  - transformation
+life_stages:
+  - initiation
+  - first_threshold
+  - midlife_descent
+key_images:
+  - "the girl gathering flowers in a meadow"
+  - "the earth splitting open"
+  - "the mother's grief that kills the harvest"
+  - "six pomegranate seeds eaten in the dark"
+  - "the daughter who returns, changed"
+
+# === CONTENT ===
+summary: >
+  Persephone, daughter of Demeter, is abducted by Hades and taken to the Underworld.
+  Demeter's grief causes the earth to become barren. Zeus intervenes, but Persephone
+  has eaten six pomegranate seeds in the Underworld, binding her to return for six
+  months each year. Her descent and return become the mythic explanation for the
+  seasons — but beneath that is a story about involuntary initiation, the mother
+  who cannot protect, and the daughter who becomes queen of a realm she did not choose.
+
+full_text: >
+  She was gathering flowers in a soft meadow — roses, crocuses, violets, iris,
+  hyacinth — and the narcissus, which Earth made grow as a snare for the girl.
+  It was radiant and marvellous, and all who saw it, whether immortal gods or
+  mortal humans, were amazed. From its root grew a hundred blooms, and the
+  fragrance made the wide heaven above and the whole earth laugh, and the salt
+  swell of the sea.
+
+  She reached out with both hands to take the lovely thing — and the wide-pathed
+  earth yawned open on the plain of Nysa, and the lord of many, the Host of Many,
+  sprang upon her with his immortal horses. He seized her, resisting, and carried
+  her away weeping on his golden chariot. She screamed — but no one heard her,
+  neither the immortal gods nor mortal humans.
+
+  Then grief more terrible and savage came upon Demeter. She made the earth
+  barren and dreadful. No seed would sprout. The oxen drew the ploughs in vain.
+  She would have destroyed the whole race of mortals with cruel famine, and
+  robbed the Olympians of the glorious honour of offerings, had Zeus not taken
+  notice.
+
+  But Persephone had eaten — cunningly given by Hades — six seeds of the
+  pomegranate, sweet as honey. And because she had tasted food in the realm
+  of the dead, she could not stay wholly in the world above. She must descend
+  again, each year, for the dark months. And each year she returns, and the
+  flowers return with her. But she is not the girl who gathered flowers.
+  She is the Queen of the Dead, who chose to eat, who carries the dark
+  with her even in spring.
+
+telling_notes: >
+  Present with sensory richness — the meadow, the flowers, the scream.
+  Do not rush past the violence of the abduction or soften it. The pomegranate
+  seeds are the pivot: she ate them. Was she tricked? Did she choose, even
+  unconsciously? This ambiguity is the point. Let the listener sit with it.
+  The return is not a rescue — it is a negotiation, and Persephone is changed.
+
+# === PLACE ===
+place_ids:
+  - eleusis-greece
+  - plain-of-nysa
+landscape_type: underworld
+origin_geography: "Eleusis, Attica, Greece"
+
+# === CALENDAR ===
+calendar_events:
+  - eleusinia
+  - autumn-equinox
+seasonal_affinity:
+  - autumn_equinox
+  - dark_half
+  - winter_solstice
+
+# === SENSITIVITY ===
+sensitivity_notes: >
+  This myth was central to the Eleusinian Mysteries, which were secret initiatory
+  rites. The Mysteries themselves are Ring 1 (archaeological — no living custodians).
+  The myth is fully public domain and widely known. However, be aware that for some
+  modern Hellenic polytheist practitioners, this is living religious material.
+permission_ring: publicly_shared
+custodian_note: ""
+
+# === SUPPORT ===
+charitable_org: "Hellenic Society (UK) / Archaeological Society of Athens"
+donation_url: ""
+
+# === META ===
+added_by: "claude-seed"
+reviewed_by: ""
+date_added: 2026-03-05
+date_reviewed: null
+status: draft

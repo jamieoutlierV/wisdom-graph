@@ -1,0 +1,87 @@
+id: s005
+title: "Hermes Steals Apollo's Cattle"
+slug: hermes-steals-cattle
+
+tradition: greek
+culture: "Olympian Greek"
+source_text: "Homeric Hymn to Hermes"
+source_translation: "Hugh G. Evelyn-White translation, 1914"
+translator: "Hugh G. Evelyn-White"
+copyright_status: public_domain
+license_note: "Pre-1929 translation"
+
+story_type: myth
+archetypes: [the-trickster]
+emotional_registers: [stuckness, disillusionment, yearning]
+life_stages: [youth_calling, first_threshold]
+key_images:
+  - "the newborn god who is already scheming"
+  - "cattle driven backwards to hide their tracks"
+  - "the lyre made from a tortoise shell"
+  - "the gift that disarms the wronged god"
+
+summary: >
+  Hermes, born at dawn, invents the lyre by noon, steals Apollo's sacred cattle
+  by evening, and talks his way out of punishment before nightfall. When confronted,
+  he offers Apollo the lyre — an instrument so beautiful that Apollo forgives the
+  theft. The thief becomes the messenger of the gods.
+
+full_text: >
+  Born at dawn in a cave on Mount Cyllene, the son of Zeus and Maia did not
+  stay long in his sacred cradle. At noon he leapt up and went out through
+  the doorway. There he found a tortoise, and he laughed — for he saw in it
+  something no one else could see.
+
+  He killed the tortoise and scooped it clean, fitted it with horns and a
+  crosspiece, strung it with sheep-gut, and made the first lyre. He played
+  it and sang — and the song was about his own birth, which had happened
+  that very morning.
+
+  By evening, he desired meat. So he went to Pieria, where the immortal
+  cattle of the blessed gods were kept. He cut fifty head from the herd
+  and drove them backward across the sand, so their tracks would point
+  the wrong way. He wore sandals made of brushwood — enormous, impossible —
+  and left no tracks of his own.
+
+  He sacrificed two of the cattle to the twelve gods — being himself the
+  twelfth, though no one had counted him yet.
+
+  When Apollo came raging, Hermes was back in his cradle, wrapped in
+  swaddling clothes, playing innocent. "I was born yesterday," he said.
+  "Literally."
+
+  Zeus laughed. He ordered the cattle returned. But Hermes played the lyre
+  for Apollo, and Apollo, god of music, heard something he could not resist.
+  He traded the entire herd for the instrument.
+
+  The thief became the god of boundaries, transitions, travellers, and thieves.
+  The god who moves between worlds. The guide of souls to the underworld.
+  Because the one who breaks the rules is the one who knows where the
+  doors are.
+
+telling_notes: >
+  Play the humour. Hermes is charming, audacious, and genuinely funny — a
+  newborn god running a con on the entire pantheon. But beneath the comedy:
+  he invents music, he breaks the established order, and he is REWARDED for
+  it. The system needs the Trickster. Apollo needs the lyre more than the
+  cattle. Ask: what have you been too obedient to try?
+
+place_ids: []
+landscape_type: mountain
+origin_geography: "Mount Cyllene, Arcadia, Greece"
+
+calendar_events: []
+seasonal_affinity: [spring_equinox, light_half]
+
+sensitivity_notes: "Fully public domain myth. No sensitivity concerns."
+permission_ring: publicly_shared
+custodian_note: ""
+
+charitable_org: "Hellenic Society (UK)"
+donation_url: ""
+
+added_by: "claude-seed"
+reviewed_by: ""
+date_added: 2026-03-05
+date_reviewed: null
+status: draft

@@ -1,0 +1,93 @@
+id: s009
+title: "Odysseus Returns to Ithaca"
+slug: odysseus-return
+
+tradition: greek
+culture: "Homeric Greek"
+source_text: "Homer, Odyssey, Books 13-23"
+source_translation: "Samuel Butler translation (1900)"
+translator: "Samuel Butler"
+copyright_status: public_domain
+license_note: "Pre-1929 translation"
+
+story_type: epic_fragment
+archetypes: [the-return]
+emotional_registers: [yearning, longing, grief, transformation, awakening]
+life_stages: [return, elder_integration]
+key_images:
+  - "twenty years away from home"
+  - "the man disguised as a beggar in his own hall"
+  - "the dog Argos who recognises him and dies"
+  - "the bow that only he can string"
+  - "Penelope's test — the bed that cannot be moved"
+
+summary: >
+  After twenty years — ten at Troy, ten wandering — Odysseus returns to Ithaca
+  disguised as a beggar. His hall is full of suitors courting his wife. His dog
+  Argos, ancient and neglected, recognises him by the door and dies. His old
+  nurse recognises him by a scar. Penelope tests him: she tells a servant to
+  move their bed. Odysseus erupts — the bed cannot be moved, he built it around
+  a living olive tree. Only someone who shared that bed would know. This is
+  how the homecoming is confirmed: not by appearance but by shared knowledge
+  of what was built together.
+
+full_text: >
+  There lay the dog Argos, full of fleas. But the moment he was aware of
+  Odysseus standing near, he wagged his tail and dropped both ears. He had
+  no strength to move nearer to his master. Odysseus turned away and wiped
+  a tear. Then Argos passed into the darkness of death, now that he had
+  seen his master once more after twenty years.
+
+  The hall was full of men who ate his food and drank his wine and courted
+  his wife. Odysseus sat among them in rags. No one knew him. They threw
+  scraps at him, and the ones who had been eating his bread for years
+  laughed at the beggar in the doorway.
+
+  Penelope set a test. She brought the great bow of Odysseus and said:
+  whoever could string it and shoot an arrow through twelve axe-heads
+  would have her hand. Each suitor tried and failed. The beggar asked
+  to try. They laughed. He strung it as easily as a musician strings
+  a lyre. The arrow sang through all twelve axe-heads.
+
+  Then Odysseus cast off his rags.
+
+  Later, when the hall was quiet and the blood had been cleaned away,
+  Penelope set her own test. She told the servant Eurycleia to move
+  their bed outside the bedchamber. Odysseus cried out: "Who has moved
+  my bed? I built that bed myself around the trunk of a living olive
+  tree. The tree is the bedpost. That bed cannot be moved unless
+  someone has cut through the trunk."
+
+  And Penelope's knees grew weak, and she wept, and she ran to him.
+  Not because he had killed the suitors. Not because he had strung
+  the bow. Because he knew about the tree. Because he knew what could
+  not be moved. Because the bed was still rooted in the living wood,
+  and so was what they had built together, twenty years ago.
+
+telling_notes: >
+  The dog and the bed are the two poles of this story. Argos — pure
+  recognition, the body that knows, no test required, and then death.
+  The bed — knowledge that can only come from having built something
+  together. Penelope is not a passive wife waiting; she is testing
+  him as rigorously as the gods did. The return is not the killing
+  of the suitors (that is action). The return is the bed. The tree
+  that is still alive.
+
+place_ids: []
+landscape_type: island
+origin_geography: "Ithaca, Greece"
+
+calendar_events: []
+seasonal_affinity: [spring_equinox, light_half]
+
+sensitivity_notes: "Public domain. No sensitivity concerns."
+permission_ring: publicly_shared
+custodian_note: ""
+charitable_org: "Hellenic Society (UK)"
+donation_url: ""
+
+added_by: "claude-seed"
+reviewed_by: ""
+date_added: 2026-03-05
+date_reviewed: null
+status: draft

@@ -1,0 +1,87 @@
+id: s006
+title: "Loki and the Binding"
+slug: loki-shapeshifter
+
+tradition: norse
+culture: "Old Norse, Icelandic"
+source_text: "Lokasenna and Gylfaginning (Prose Edda)"
+source_translation: "Bellows (1923) / Brodeur (1916)"
+translator: "Bellows / Brodeur"
+copyright_status: public_domain
+license_note: "Pre-1929 translations"
+
+story_type: myth
+archetypes: [the-trickster]
+emotional_registers: [rage, confusion, disillusionment, stuckness]
+life_stages: [midlife_descent, first_threshold]
+key_images:
+  - "the blood-brother of Odin who becomes the enemy of the gods"
+  - "the shapeshifter — salmon, fly, mare, old woman"
+  - "the flyting — truth spoken as weapon at the feast"
+  - "bound beneath the serpent's venom, the earth shaking with his pain"
+
+summary: >
+  Loki is the Norse Trickster — Odin's blood-brother, the gods' problem-solver
+  and their eventual destroyer. He shifts shape, shifts allegiance, speaks truths
+  no one wants to hear. At the feast of the gods he names every secret shame.
+  For this he is bound beneath a serpent whose venom drips onto his face.
+  His wife Sigyn holds a bowl to catch the venom, but when she turns to empty
+  it, the drops fall and Loki writhes — and the earth shakes. He will break
+  free at Ragnarök to lead the enemies of the gods.
+
+full_text: >
+  Loki was beautiful and fair of face, but evil in nature and fickle in manner.
+  He was called the Sly God, the Shape-Changer, the Sky-Traveller. He was
+  Odin's blood-brother — they had mixed their blood, and Odin had sworn that
+  he would never drink unless Loki too was served.
+
+  And Loki helped the gods. When they needed the walls of Asgard built, it was
+  Loki's cunning that tricked the builder. When Thor's hammer was stolen, it
+  was Loki who devised the plan. When the gods needed treasures forged, Loki
+  wagered with the dwarves and won — though he wagered his own head and
+  wriggled free on a technicality.
+
+  But Loki also fathered the wolf Fenrir, the serpent Jörmungandr, and Hel,
+  goddess of the dead. The gods' doom grew from Loki's children.
+
+  At Ægir's feast, Loki came uninvited. He stood before each god and goddess
+  and named their secrets: Odin's broken oaths, Freyja's lovers, Týr's lost
+  hand, Bragi's cowardice. Every word was true. That was the weapon.
+
+  For this, and for the death of Baldr — bright Baldr, whom Loki killed
+  through cunning — they bound him. They took a great rock and set it
+  beneath him, and above him they fastened a serpent so that its venom
+  would drip onto his face. There he lies until the end of the world.
+
+  His wife Sigyn sits beside him, holding a bowl to catch the venom.
+  But when the bowl is full and she must turn away to empty it, the
+  drops fall on his face, and he writhes with such violence that the
+  whole earth trembles. This is what mortals call earthquakes.
+
+  At Ragnarök, he will break free.
+
+telling_notes: >
+  Loki is not a villain — he is a force. The gods need him and cannot
+  contain him. His truths are real truths. His punishment is for speaking
+  them, not for lying. Ask the listener: whose secrets are you keeping?
+  What truth would shake the room if you spoke it at the feast?
+  But also: what is the cost of being the one who always names the thing?
+
+place_ids: []
+landscape_type: mountain
+origin_geography: "Scandinavia / Iceland"
+
+calendar_events: [winter-solstice-norse]
+seasonal_affinity: [dark_half, winter_solstice]
+
+sensitivity_notes: "Public domain texts. Modern Heathen practitioners may hold as sacred."
+permission_ring: historical
+custodian_note: ""
+charitable_org: "Árni Magnússon Institute for Icelandic Studies"
+donation_url: ""
+
+added_by: "claude-seed"
+reviewed_by: ""
+date_added: 2026-03-05
+date_reviewed: null
+status: draft

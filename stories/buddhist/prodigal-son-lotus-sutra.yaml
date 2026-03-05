@@ -1,0 +1,99 @@
+id: s011
+title: "The Prodigal Son"
+slug: prodigal-son-lotus-sutra
+
+tradition: buddhist
+culture: "Mahayana Buddhist, Indian/Chinese"
+source_text: "Lotus Sutra (Saddharma Puṇḍarīka Sūtra), Chapter 4"
+source_translation: "Kern translation (1884) / Kubo and Yuyama (2007 — CC)"
+translator: "H. Kern (1884)"
+copyright_status: public_domain
+license_note: "Kern 1884 translation is public domain. Text also on SuttaCentral under CC."
+
+story_type: parable
+archetypes: [the-return]
+emotional_registers: [yearning, confusion, awakening, transformation]
+life_stages: [return, midlife_descent, dark_night]
+key_images:
+  - "the son who wanders for fifty years in poverty"
+  - "the father who recognises him but cannot approach"
+  - "the gradual approach — sweeping floors, then managing accounts"
+  - "the inheritance that was always his"
+
+summary: >
+  A young man leaves his wealthy father and wanders for fifty years,
+  becoming destitute. By chance he arrives at his father's estate, not
+  recognising it. The father recognises his son instantly but knows that
+  if he reveals himself, the son — now a beggar — will be terrified and
+  flee. So the father sends servants to offer the wanderer a humble job
+  sweeping the grounds. Over years, the son is gradually given more
+  responsibility. Only on the father's deathbed does he reveal the truth:
+  you are my son, and everything I have is yours. It was always yours.
+
+full_text: >
+  A young man left his father and went away. He dwelt in another country
+  for fifty years. As he grew older, he became poor and wandered in
+  search of food and clothing, going from country to country, until
+  at last he came by chance to his father's city.
+
+  The father, who had searched for his son all those years, recognised
+  him at once. He sent messengers to bring the son to him. But the son,
+  seeing the grand estate and the rich messengers, was terrified. "This
+  has nothing to do with me," he thought. "I am only looking for a
+  place to work. They must want to imprison me." He tried to flee.
+
+  The father understood. If he said "I am your father, and this estate
+  is yours," the son would not believe it. The gap between who the son
+  believed himself to be and who he actually was had grown too wide.
+  A sudden revelation would be a violence.
+
+  So the father sent plainly dressed servants to offer the son a humble
+  job — sweeping the grounds, clearing waste. The son accepted. He
+  swept the grounds.
+
+  Over the years, the father gradually increased his responsibilities.
+  The son managed supplies, then accounts, then the estate itself. He
+  grew in confidence. He began to feel at home. But still he thought
+  of himself as a hired worker, not an heir.
+
+  When the father was dying, he gathered all the people and said:
+  "This man is my son. He left me fifty years ago. Everything I have
+  is his. It has always been his."
+
+  And the son was astonished. He had not sought any of this. He had
+  not even known to seek it. The inheritance had been waiting all along.
+
+telling_notes: >
+  This is NOT the Christian prodigal son — the dynamic is completely
+  different. In the Christian version, the son returns and is immediately
+  embraced. Here, the father cannot even approach directly because the
+  son's self-image is too broken to receive the truth. The teaching is
+  about gradual awakening — the inheritance (Buddha-nature, in Buddhist
+  reading) was never lost, only forgotten. You already have what you
+  need. You always did. The journey is not to earn it but to remember.
+  For listeners who feel unworthy, lost, or like they've wasted their
+  life — this is profoundly gentle medicine.
+
+place_ids: []
+landscape_type: plain
+origin_geography: "India (composition); China, Korea, Japan (transmission)"
+
+calendar_events: []
+seasonal_affinity: [spring_equinox, full_moon]
+
+sensitivity_notes: >
+  The Lotus Sutra is a living sacred text in Mahayana Buddhism, particularly
+  in Nichiren, Tiantai, and Tendai traditions. Present as a teaching parable,
+  not as a folk tale. The parallel to the Christian prodigal son should be
+  named as a resonance, not an equivalence.
+permission_ring: publicly_shared
+custodian_note: ""
+
+charitable_org: "BDK America (Bukkyō Dendō Kyōkai)"
+donation_url: ""
+
+added_by: "claude-seed"
+reviewed_by: ""
+date_added: 2026-03-05
+date_reviewed: null
+status: draft

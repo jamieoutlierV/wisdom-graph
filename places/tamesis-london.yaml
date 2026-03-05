@@ -1,0 +1,62 @@
+id: p001
+slug: tamesis-london
+modern_name: "London, England"
+ancient_names:
+  - name: "Tamesis"
+    tradition: celtic
+    era: "pre-Roman"
+    meaning: "the dark river / the dark one"
+  - name: "Londinium"
+    tradition: roman
+    era: "Roman Britain, c. 43 CE"
+    meaning: "settlement on the Tamesis; possibly from Celtic *Londinion — place at the navigable river"
+  - name: "Lundenwic"
+    tradition: anglo-saxon
+    era: "6th-9th century CE"
+    meaning: "trading place / market town on the Lunden"
+  - name: "Lundenburh"
+    tradition: anglo-saxon
+    era: "9th century CE (Alfred's re-fortification)"
+    meaning: "fortified place of Lunden"
+coordinates:
+  lat: 51.5074
+  lon: -0.1278
+  radius_km: 30
+bioregion: "Tidal river estuary, Thames basin"
+landscape_character: >
+  A threshold place. The Thames is tidal — the sea reaches into the city twice
+  a day. This has made London a crossing point, a trading point, a place where
+  things and people from different worlds meet and exchange. The river is dark —
+  the Celts named it for its colour. It is a boundary: north bank, south bank.
+  The bridges are acts of connection across a natural divide. This is a place
+  where commerce, migration, and the mingling of cultures have shaped every layer
+  of settlement for two thousand years.
+traditions_present:
+  - celtic
+  - roman
+  - anglo-saxon
+  - norse
+  - jewish
+  - islamic
+  - hindu
+  - yoruba
+spatial_ontologies:
+  - tradition: celtic
+    ontology_type: "sacred river / threshold place"
+    permission_ring: archaeological
+    description: "The Thames as a sacred boundary — votive offerings found throughout the riverbed. The Battersea Shield, the Waterloo Helmet. The river was a place you gave things to."
+  - tradition: roman
+    ontology_type: "augury / templum"
+    permission_ring: archaeological
+    description: "Roman augurs would have read this landscape — the hills (Ludgate, Cornhill), the river, the marshes of Southwark. The Temple of Mithras in the financial district."
+  - tradition: anglo-saxon
+    ontology_type: "trading place / wic"
+    permission_ring: archaeological
+    description: "Lundenwic — the place where trade happens. The Strand as the beach where boats landed. Commerce as the sacred act of this particular place."
+permission_level: archaeological
+custodian_notes: >
+  London's deep-time identity is as a crossing place and trading place.
+  Multiple traditions have roots here through migration and diaspora — this
+  is one of the most culturally layered places on earth. The Thames itself
+  is the constant. Present the river first, then the layers of settlement.
+stories_of_this_land: []

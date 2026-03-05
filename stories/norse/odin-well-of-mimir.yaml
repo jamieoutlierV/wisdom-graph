@@ -1,0 +1,101 @@
+id: s003
+title: "Odin at the Well of Mímir"
+slug: odin-well-of-mimir
+
+# === PROVENANCE ===
+tradition: norse
+culture: "Old Norse, Icelandic"
+source_text: "Völuspá (Poetic Edda) and Gylfaginning (Prose Edda)"
+source_translation: "Henry Adams Bellows translation (1923) / Arthur Gilchrist Brodeur (1916)"
+translator: "Bellows / Brodeur"
+copyright_status: public_domain
+license_note: "Pre-1929 translations"
+
+# === CLASSIFICATION ===
+story_type: myth
+archetypes:
+  - the-descent
+emotional_registers:
+  - yearning
+  - surrender
+  - threshold
+  - transformation
+life_stages:
+  - midlife_descent
+  - elder_integration
+key_images:
+  - "the one-eyed god"
+  - "the well at the root of the world-tree"
+  - "the eye given freely for a drink"
+  - "wisdom that costs something irreversible"
+
+# === CONTENT ===
+summary: >
+  Odin, the Allfather, seeks the wisdom held in Mímir's Well, which lies
+  beneath one of the three roots of Yggdrasil, the World Tree. Mímir, the
+  guardian, demands a price: one of Odin's eyes. Odin gives it freely.
+  He drinks from the well and gains cosmic wisdom — but he sees the world
+  differently forever after, with one eye in the light and one in the deep.
+
+full_text: >
+  There is a well beneath the great ash Yggdrasil. It is called the Well
+  of Mímir, and in it wisdom and understanding are stored. The master of
+  the well is called Mímir, and he is full of ancient lore, for he drinks
+  from the well each morning.
+
+  The Allfather came there and asked for a single drink from the well,
+  but he did not get one until he had given one of his eyes as a pledge.
+  So it is said:
+
+  I know where Odin's eye is hidden —
+  deep in the wide-famed Well of Mímir.
+  Mead from the pledge of the Father of the Slain
+  does Mímir drink each morning.
+
+  Odin drank. And what he saw with the eye that remained was changed
+  forever, because it now saw alongside what the lost eye saw from the
+  deep. He became the god who sees both worlds — the world of light
+  and the world beneath it. The god who knows the cost of knowing.
+
+  This is why Odin is called the One-Eyed God. Not because he lost
+  something, but because he traded one kind of sight for another.
+  The eye in the well still sees. It sees from below.
+
+telling_notes: >
+  The trade is the heart of this. Odin is already the most powerful god —
+  this is not a quest born of weakness but of a specific hunger that power
+  cannot satisfy. He wants to KNOW. And the price is not abstract — it is
+  his eye, his way of seeing, a permanent asymmetry. Present this as a
+  story about what wisdom costs. Do not romanticise the sacrifice.
+  Ask: what would you give an eye for?
+
+# === PLACE ===
+place_ids: []
+landscape_type: well
+origin_geography: "Scandinavia / Iceland"
+
+# === CALENDAR ===
+calendar_events:
+  - winter-solstice-norse
+seasonal_affinity:
+  - winter_solstice
+  - dark_half
+
+# === SENSITIVITY ===
+sensitivity_notes: >
+  Modern Ásatrú and Heathen practitioners consider this living religious material.
+  The textual sources are public domain and widely studied academically.
+  Ring 2 (historical) with awareness that living communities exist.
+permission_ring: historical
+custodian_note: ""
+
+# === SUPPORT ===
+charitable_org: "Viking Ship Museum, Roskilde / Árni Magnússon Institute"
+donation_url: ""
+
+# === META ===
+added_by: "claude-seed"
+reviewed_by: ""
+date_added: 2026-03-05
+date_reviewed: null
+status: draft
